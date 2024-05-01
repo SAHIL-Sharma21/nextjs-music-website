@@ -1,0 +1,110 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "course_name": "Music Theory Fundamentals",
+        "slug": "music-theory-fundamentals",
+        "instructor": "John Smith",
+        "duration": "8 weeks",
+        "level": "Beginner",
+        "price": "$99",
+        "description": "Learn the basics of music theory, including notes, scales, chords, and rhythm. Perfect for beginners who want to understand the fundamental concepts of music."
+      },
+      {
+        "id": 2,
+        "course_name": "Guitar Basics",
+        "slug": "guitar-basics",
+        "instructor": "Emily Jones",
+        "duration": "6 weeks",
+        "level": "Beginner",
+        "price": "$79",
+        "instrument_required": "Guitar",
+        "description": "Master the foundational skills of playing the guitar, including basic chords, strumming patterns, and fingerpicking techniques. No prior experience required."
+      },
+      {
+        "id": 3,
+        "course_name": "Piano Masterclass",
+        "slug": "piano-masterclass",
+        "instructor": "Michael Brown",
+        "duration": "10 weeks",
+        "level": "Intermediate",
+        "price": "$149",
+        "instrument_required": "Piano",
+        "description": "Take your piano skills to the next level with this comprehensive masterclass. Learn advanced techniques, music theory, and repertoire suitable for intermediate players."
+      },
+      {
+        "id": 4,
+        "course_name": "Singing Techniques",
+        "slug": "singing-techniques",
+        "instructor": "Sarah Johnson",
+        "duration": "8 weeks",
+        "level": "Intermediate",
+        "price": "$89",
+        "description": "Discover essential singing techniques to improve your vocal range, tone, and performance. Suitable for intermediate singers looking to enhance their skills."
+      },
+      {
+        "id": 5,
+        "course_name": "Music Production Essentials",
+        "slug": "music-production-essentials",
+        "instructor": "David Miller",
+        "duration": "12 weeks",
+        "level": "Advanced",
+        "price": "$199",
+        "software_required": "DAW",
+        "description": "Learn the essential skills and techniques of music production, including recording, editing, mixing, and mastering. Requires a Digital Audio Workstation (DAW) software."
+      },
+      {
+        "id": 6,
+        "course_name": "Bass Guitar Workshop",
+        "slug": "bass-guitar-workshop",
+        "instructor": "Chris Evans",
+        "duration": "6 weeks",
+        "level": "Intermediate",
+        "price": "$89",
+        "instrument_required": "Bass Guitar",
+        "description": "Join this workshop to master bass guitar techniques, including fingerstyle, slap bass, and groove playing. Suitable for intermediate players seeking to improve their bass skills."
+      },
+      {
+        "id": 7,
+        "course_name": "Songwriting Bootcamp",
+        "slug": "songwriting-bootcamp",
+        "instructor": "Amanda White",
+        "duration": "8 weeks",
+        "level": "Intermediate",
+        "price": "$99",
+        "description": "Unlock your creativity and learn the art of songwriting in this intensive bootcamp. Explore song structure, lyric writing, melody creation, and more."
+      },
+      {
+        "id": 8,
+        "course_name": "Music History and Appreciation",
+        "slug": "music-history-and-appreciation",
+        "instructor": "Daniel Taylor",
+        "duration": "10 weeks",
+        "level": "Beginner",
+        "price": "$129",
+        "description": "Dive into the rich history of music from ancient times to modern-day. Explore various musical genres, composers, and influential works while gaining a deeper appreciation for music."
+      },
+      {
+        "id": 9,
+        "course_name": "Jazz Improvisation Techniques",
+        "slug": "jazz-improvisation-techniques",
+        "instructor": "Mark Davis",
+        "duration": "8 weeks",
+        "level": "Intermediate",
+        "price": "$109",
+        "description": "Explore the art of jazz improvisation and develop your improvisational skills on your instrument. Learn scales, patterns, and techniques used in jazz improvisation."
+      },
+      {
+        "id": 10,
+        "course_name": "Electronic Music Production",
+        "slug": "electronic-music-production",
+        "instructor": "Sophia Clark",
+        "duration": "12 weeks",
+        "level": "Advanced",
+        "price": "$179",
+        "software_required": "Music Production Software",
+        "description": "Dive into the world of electronic music production and learn to create your own tracks using synthesizers, drum machines, and software instruments. Requires music production software."
+      }
+    ]
+  }
+  
