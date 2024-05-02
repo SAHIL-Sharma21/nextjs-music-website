@@ -7,7 +7,8 @@
         "instructor": "John Smith",
         "duration": "8 weeks",
         "level": "Beginner",
-        "price": "$99",
+        "price": "99",
+        "isPublished": "true",
         "description": "Learn the basics of music theory, including notes, scales, chords, and rhythm. Perfect for beginners who want to understand the fundamental concepts of music."
       },
       {
@@ -17,8 +18,8 @@
         "instructor": "Emily Jones",
         "duration": "6 weeks",
         "level": "Beginner",
-        "price": "$79",
-        "instrument_required": "Guitar",
+        "price": "79",
+        "isPublished": "true",
         "description": "Master the foundational skills of playing the guitar, including basic chords, strumming patterns, and fingerpicking techniques. No prior experience required."
       },
       {
@@ -28,8 +29,8 @@
         "instructor": "Michael Brown",
         "duration": "10 weeks",
         "level": "Intermediate",
-        "price": "$149",
-        "instrument_required": "Piano",
+        "price": "149",
+        "isPublished": "true",
         "description": "Take your piano skills to the next level with this comprehensive masterclass. Learn advanced techniques, music theory, and repertoire suitable for intermediate players."
       },
       {
@@ -39,7 +40,8 @@
         "instructor": "Sarah Johnson",
         "duration": "8 weeks",
         "level": "Intermediate",
-        "price": "$89",
+        "price": "89",
+        "isPublished": "true",
         "description": "Discover essential singing techniques to improve your vocal range, tone, and performance. Suitable for intermediate singers looking to enhance their skills."
       },
       {
@@ -49,8 +51,8 @@
         "instructor": "David Miller",
         "duration": "12 weeks",
         "level": "Advanced",
-        "price": "$199",
-        "software_required": "DAW",
+        "price": "199",
+        "isPublished": "true",
         "description": "Learn the essential skills and techniques of music production, including recording, editing, mixing, and mastering. Requires a Digital Audio Workstation (DAW) software."
       },
       {
@@ -60,8 +62,8 @@
         "instructor": "Chris Evans",
         "duration": "6 weeks",
         "level": "Intermediate",
-        "price": "$89",
-        "instrument_required": "Bass Guitar",
+        "price": "89",
+        "isPublished": "true",
         "description": "Join this workshop to master bass guitar techniques, including fingerstyle, slap bass, and groove playing. Suitable for intermediate players seeking to improve their bass skills."
       },
       {
@@ -71,7 +73,8 @@
         "instructor": "Amanda White",
         "duration": "8 weeks",
         "level": "Intermediate",
-        "price": "$99",
+        "price": "99",
+        "isPublished": "false",
         "description": "Unlock your creativity and learn the art of songwriting in this intensive bootcamp. Explore song structure, lyric writing, melody creation, and more."
       },
       {
@@ -81,7 +84,8 @@
         "instructor": "Daniel Taylor",
         "duration": "10 weeks",
         "level": "Beginner",
-        "price": "$129",
+        "price": "129",
+        "isPublished": "false",
         "description": "Dive into the rich history of music from ancient times to modern-day. Explore various musical genres, composers, and influential works while gaining a deeper appreciation for music."
       },
       {
@@ -91,7 +95,8 @@
         "instructor": "Mark Davis",
         "duration": "8 weeks",
         "level": "Intermediate",
-        "price": "$109",
+        "price": "109",
+        "isPublished": "false",
         "description": "Explore the art of jazz improvisation and develop your improvisational skills on your instrument. Learn scales, patterns, and techniques used in jazz improvisation."
       },
       {
@@ -101,8 +106,8 @@
         "instructor": "Sophia Clark",
         "duration": "12 weeks",
         "level": "Advanced",
-        "price": "$179",
-        "software_required": "Music Production Software",
+        "price": "179",
+        "isPublished": "false",
         "description": "Dive into the world of electronic music production and learn to create your own tracks using synthesizers, drum machines, and software instruments. Requires music production software."
       }
     ]
